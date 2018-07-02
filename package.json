@@ -1,5 +1,5 @@
 {
-  "name": "hellonode",
+  "name": "smartattendancetracker",
   "version": "1.1.0",
   "description": "API.AI Facebook Bot",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "start": "node app.js",
     "test": "mocha"
   },
-  "author": "Tushar",
+  "author": "Jatinder Arora",
   "license": "ISC",
   "dependencies": {
     "apiai": "^3.0.3",
