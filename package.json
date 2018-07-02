@@ -1,13 +1,13 @@
 {
-  "name": "smartattendancetracker",
+  "name": "tusharweb",
   "version": "1.1.0",
   "description": "API.AI Facebook Bot",
-  "main": "app.js",
+  "main": "hellonode.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node hellonode.js",
     "test": "mocha"
   },
-  "author": "Jatinder Arora",
+  "author": "Tushar",
   "license": "ISC",
   "dependencies": {
     "apiai": "^3.0.3",
