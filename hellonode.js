@@ -9,8 +9,8 @@ http.createServer(function (request, response) {
    response.writeHead(200, {'Content-Type': 'text/html'});
    
    // Send the response body as "Hello World"
-   response.end('<b>Hello World...</b>\n');
+   response.end('<b>What\'s up bitches..... I\'m going live....</b>\n');
 }).listen(REST_PORT);
 
 // Console will print the message
-console.log("Server running at http://127.0.0.1:8081/");
+console.log('Server running at http://127.0.0.1:8081/');
